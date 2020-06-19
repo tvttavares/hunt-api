@@ -2,4 +2,20 @@ npm init -y
 
 npm install express
 
+node server.js
+
 npm install -D nodemon
+
+npm run dev
+
+-- Instação docker
+docker pull mongo
+
+docker run --name mongodb -p 27017:27017 -d mongo
+
+docker ps -a
+docker start mongo
+
+-- Instalação Robomongo3T
+
+npm install mongoose
