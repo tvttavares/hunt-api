@@ -19,3 +19,5 @@ docker start mongo
 -- Instalação Robomongo3T
 
 npm install mongoose
+
+npm install require-dir
