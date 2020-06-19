@@ -21,3 +21,15 @@ docker start mongo
 npm install mongoose
 
 npm install require-dir
+
+http://localhost:3001/api/products
+
+inssomnia
+
+JSON
+{
+    "title": "ReactJS",
+    "description": "Biblioteca para criar aplicações interativas com Javascript"
+    "url": "http://github.com/facebook/react"
+}
+
