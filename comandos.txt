@@ -33,3 +33,7 @@ JSON
     "url": "http://github.com/facebook/react"
 }
 
+
+npm install mongoose-paginate
+
+npm install cors
